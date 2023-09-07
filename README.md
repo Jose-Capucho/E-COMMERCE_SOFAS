@@ -1,4 +1,4 @@
-# E-COMMERCER_SOFA
+# E-COMMERCE_SOFA
 
 Este projeto de Site de Venda de Sofás foi criado como parte do meu processo de aprendizado em frontend. 
 Ele representa minha dedicação em aprimorar minhas habilidades na construção de interfaces web atraentes e funcionais. 
