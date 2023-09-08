@@ -35,15 +35,13 @@ Através deste projeto, busquei demonstrar minha capacidade de criar um site res
 
 # Imagens do projeto:
 
-![image](https://github.com/Jose-Capucho/E-COMMERCE_SOFAS/assets/97485966/6df9283f-838a-41b1-abcd-532f22a7ed4a)
+![image](https://github.com/Jose-Capucho/E-COMMERCE_SOFAS/assets/97485966/f8b337d6-acd1-451a-a464-f7783b0a69f8)
 
-![image](https://github.com/Jose-Capucho/E-COMMERCE_SOFAS/assets/97485966/e73a3d07-2157-4b3e-ae03-c1c2113e792a)
+![image](https://github.com/Jose-Capucho/E-COMMERCE_SOFAS/assets/97485966/0a780c90-f1c2-441f-bd2b-9c0a735808ec)
 
-![image](https://github.com/Jose-Capucho/E-COMMERCE_SOFAS/assets/97485966/de73122c-a960-465d-8cac-9064322d2366)
+![image](https://github.com/Jose-Capucho/E-COMMERCE_SOFAS/assets/97485966/19549351-acd6-46ab-907e-af6494b862d0)
 
-![image](https://github.com/Jose-Capucho/E-COMMERCE_SOFAS/assets/97485966/07bbbd02-83bc-49f1-8e21-84c37f1e80bd)
+![image](https://github.com/Jose-Capucho/E-COMMERCE_SOFAS/assets/97485966/afeb2d24-5007-4ee5-ac7e-cb50116506bb)
 
-![image](https://github.com/Jose-Capucho/E-COMMERCE_SOFAS/assets/97485966/da9c1ad3-2289-4430-9632-40cf0526f61b)
-
-
+![image](https://github.com/Jose-Capucho/E-COMMERCE_SOFAS/assets/97485966/39d8e9d9-6b49-4849-9e78-41686b8558d2)
 
