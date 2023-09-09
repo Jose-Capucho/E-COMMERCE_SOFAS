@@ -78,7 +78,7 @@ img {
     background: #FFF;
     color: var(--sienna);
     padding: 5px 10px;
-    transition: background 0.4s ease;
+    transition: 0.4s ease;
     border-radius: 5px;
 }
 .brand-name:hover {
@@ -190,7 +190,7 @@ img {
     align-items: center;
     justify-content: center;
     cursor: pointer;
-    transition: background 0.4s ease-in-out;
+    transition: 0.4s ease-in-out;
 }
 .chevron-icon:hover {
     background: var(--sandyBrown);
